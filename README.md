@@ -2,8 +2,7 @@
 Sample Hamburger Menu for WPF
 
 ## Dependencies
-MaterialDesignColors
-MaterialDesignThemes
+[Material Design In XAML Toolkit](https://github.com/ButchersBoy/MaterialDesignInXamlToolkit)
 
 ## Screenshots
 ![](https://github.com/calloncampbell/WpfHamburgerMenuApp/raw/master/assets/menu-collapsed.png)
